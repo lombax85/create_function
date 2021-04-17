@@ -2,7 +2,7 @@
     "name": "lombax85/create_function",
     "description": "A replacement for the function create_function for PHP 8",
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.0"
     },
     "authors": [
         {
