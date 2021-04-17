@@ -17,7 +17,7 @@
         "classmap": [
             "src/"
         ],
-        "files": ["src/helpers.php"]
+        "files": ["src/helper.php"]
     },
     "license": "MIT"
 }
