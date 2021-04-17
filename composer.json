@@ -19,6 +19,5 @@
         ],
         "files": ["src/helpers.php"]
     },
-    "license": "MIT",
-    
+    "license": "MIT"
 }
